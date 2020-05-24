@@ -21,7 +21,7 @@ export default StyleSheet.create({
     },
     incidentProperty:{
         fontSize: 14,
-        color: '#41414d',
+        color: '##0d71ff',
         fontWeight:'bold',
         marginTop: 24,
     },
@@ -53,7 +53,7 @@ export default StyleSheet.create({
         justifyContent: "space-between",
     },
     action:{
-        backgroundColor:'#e02041',
+        backgroundColor:'#6880fd',
         borderRadius: 8,
         height: 50,
         width: '48%',

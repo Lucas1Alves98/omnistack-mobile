@@ -42,7 +42,7 @@ export default StyleSheet.create({
     },
     incidentProperty:{
         fontSize: 14,
-        color: '#41414d',
+        color: '#0d71ff',
         fontWeight:'bold',
     },
     incidentValue:{
@@ -57,7 +57,7 @@ export default StyleSheet.create({
         alignItems: 'center',
     },
     detailsButtonText:{
-        color: '#e02041',
+        color: '#000000',
         fontSize:15,
         fontWeight: 'bold',
     },
